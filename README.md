@@ -1,2 +1,2 @@
 # javaPractice
-Java Practice Repository
+This is my Java Practice Repository. Will try to update if frequently.
